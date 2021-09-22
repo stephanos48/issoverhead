@@ -4,7 +4,7 @@ import smtplib
 import time
 
 MY_EMAIL = "warranty.flo@yahoo.com"
-MY_PASSWORD = "eibzdbvbqyiskimq"
+MY_PASSWORD = "luyrsmpqmvuqzpgs"
 TO_EMAIL = "helen.englisch@gmail.com"
 
 MY_LAT = 33.150673
